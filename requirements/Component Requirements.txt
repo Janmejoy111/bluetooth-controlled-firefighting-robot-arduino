@@ -1,0 +1,58 @@
+Bluetooth Fire Fighting Robot – Component Requirements
+
+Microcontroller
+
+* Arduino Nano (ATmega328P)
+
+Communication Module
+
+* HC-05 Bluetooth Module
+
+Motor Control
+
+* L298N Motor Driver Module
+* 2 × BO DC Motors
+* Robot Wheels
+
+Fire Detection System
+
+* 3 × Flame Sensor Modules
+
+Fire Suppression System
+
+* 5V Mini Water Pump
+* Water Pipe / Nozzle
+* Small Water Container
+
+Actuators
+
+* SG90 Servo Motor (for aiming the water nozzle)
+
+Control and Switching
+
+* 1 × 5V Relay Module
+* 1 × 2-Pin Power Switch
+
+Alert System
+
+* 1 × LED Indicator
+* 1 × Buzzer / Mini Speaker
+
+Power System
+
+* 18650 Li-ion Batteries
+* DC-DC Buck Converter (LM2596 or similar)
+
+Mechanical Structure
+
+* Wooden base chassis
+* Two-layer (two-storey) platform structure
+* 4 × Support bolts (for vertical frame)
+* 12 × Nuts and bolts for mounting components
+
+Miscellaneous
+
+* Breadboard / PCB
+* Jumper Wires (Male-Male / Male-Female)
+* Connecting Wires
+* Zip ties / mounting clips

@@ -1,0 +1,9 @@
+Bluetooth Fire Fighting Robot – Demo Video
+
+This video demonstrates the working of the Bluetooth Controlled Fire Fighting Robot built using Arduino Nano. The robot can be controlled wirelessly through a smartphone using an HC-05 Bluetooth module.
+
+The system uses three flame sensors to detect fire. When a flame is detected, the robot stops automatically, activates an alarm using a buzzer and LED, and sprays water using a relay-controlled 5V water pump. A servo motor is used to aim the nozzle toward the fire source.
+
+Watch the full working demonstration here:
+
+https://drive.google.com/file/d/1HA-GH6swl0WtCEgR7G8Eb3HfLAJ5L8d5/view?usp=drivesdk
